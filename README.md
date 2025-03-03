@@ -1,5 +1,6 @@
 # Pokémon Battle Simulator
 
+This was entirely coded by claude 3.7 via cursor, for the sake of trying it out
 A Python-based Pokémon battle simulator with a graphical user interface built using Tkinter.
 
 ## Features
